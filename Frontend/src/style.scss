@@ -1,0 +1,32 @@
+$font-color: #ed4033;
+$background-color: #ffebeb;
+$border-color: #f9d7d6;
+
+@mixin auth-button {
+  width: 50%;
+  border: solid 3px $border-color;
+  border-radius: 10px;
+  background-color: $border-color;
+  color: black;
+  font-weight: bold;
+  font-size: 16px;
+  cursor: pointer;
+  transition: cubic-bezier(0.03, 0.36, 0.63, 1.17) 0.3s;
+  &:hover {
+    transform: scale(1.1);
+    box-shadow: rgba(0, 0, 0, 0.202) 0px 1px 4px;
+  }
+}
+@mixin feed-button {
+  padding: 5px;
+  border: solid 3px $border-color;
+  border-radius: 10px;
+  background-color: $border-color;
+  color: black;
+  font-weight: bold;
+  cursor: pointer;
+  transition: cubic-bezier(0.03, 0.36, 0.63, 1.17) 0.3s;
+  &:hover {
+    border: solid 3px #f4c1c0;
+  }
+}
