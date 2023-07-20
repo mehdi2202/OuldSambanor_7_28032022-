@@ -33,7 +33,7 @@
 4.  Lancer le serveur
     
     ```
-    npm start
+    nodemon server
     
     ```
     
@@ -64,7 +64,7 @@
 3.  Lancer le serveur
     
     ```
-    npm start
+    npm run serve
     
     ```
     
