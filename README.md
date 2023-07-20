@@ -2,17 +2,17 @@
 
 ----------
 
-## [](https://github.com/dimitrifiacre/Groupomania#sc%C3%A9nario)Scénario
+## Scénario
 
 > Le projet consiste à construire un réseau social interne pour les employés de Groupomania. Le but de cet outil est de faciliter les interactions entre collègues. Le département RH de Groupomania a imaginé plusieurs fonctionnalités pour favoriser les échanges entre collègues.
 
-## [](https://github.com/dimitrifiacre/Groupomania#objectifs)Objectifs
+## Objectifs
 
 -   Authentifier un utilisateur et maintenir sa session
 -   Implémenter un stockage de données sécurisé en utilisant une base de données
 -   Développer l’interface d’un site web grâce à un framework front-end
 
-## [](https://github.com/dimitrifiacre/Groupomania#installation-backend)Installation backend
+## Installation backend
 
 1.  Installer les dépendences  _(dans le dossier  `backend`)_
     
@@ -50,7 +50,7 @@
     
     
 
-## [](https://github.com/dimitrifiacre/Groupomania#installation-frontend)Installation frontend
+## Installation frontend
 
 1.  Installer les dépendences  _(dans le dossier  `frontend`)_
     
