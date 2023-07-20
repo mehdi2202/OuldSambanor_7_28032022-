@@ -14,10 +14,8 @@
 
 ## Prérequis
 
-    ```
-    Installer node.js
-    
-    ```
+1.  Installer Node.js
+2.  Installer Nodemon
 
 ## Installation backend
 
