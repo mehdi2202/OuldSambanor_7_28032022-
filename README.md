@@ -12,6 +12,13 @@
 -   Implémenter un stockage de données sécurisé en utilisant une base de données
 -   Développer l’interface d’un site web grâce à un framework front-end
 
+## Prérequis
+
+    ```
+    Installer node.js
+    
+    ```
+
 ## Installation backend
 
 1.  Installer les dépendences  _(dans le dossier  `backend`)_
