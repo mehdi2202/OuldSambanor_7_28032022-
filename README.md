@@ -33,7 +33,7 @@
 4.  Lancer le serveur
     
     ```
-    npm start
+    nodemon server
     
     ```
     
@@ -64,8 +64,8 @@
 3.  Lancer le serveur
     
     ```
-    npm start
+    npm run serve
     
     ```
     
-    _Port par défaut :  `3000`_
+    _Port par défaut :  `8080`_
